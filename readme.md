@@ -1,5 +1,5 @@
 # CHAT APP PROJECT USING MERN STACK
-![logo](.\images\logo.jpg)
+![logo]([.\images\logo.jpg](https://github.com/aymen-000/chat-app-/blob/master/images/Capture.PNG))
 ## Tools Used
 In this project, we used the following tools:
 
