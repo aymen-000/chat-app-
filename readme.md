@@ -8,7 +8,7 @@ In this project, we used the following tools:
 - [React.js](https://fr.legacy.reactjs.org/) Single page rendering library 
 
 ## screenshots 
-![Example Image](images\Capture.PNG)
+![Example Image](https://github.com/aymen-000/chat-app-/blob/master/images/Capture.PNG)
 ![Example Image](images\Capture1.PNG)
 ![Example Image](images\Capture2.PNG)
 
