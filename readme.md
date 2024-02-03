@@ -9,7 +9,7 @@ In this project, we used the following tools:
 
 ## screenshots 
 ![Example Image](https://github.com/aymen-000/chat-app-/blob/master/images/Capture.PNG)
-![Example Image](images\Capture1.PNG)
+![Example Image](https://github.com/aymen-000/chat-app-/blob/master/images/Capture1.PNG)
 ![Example Image](images\Capture2.PNG)
 
 ## Get Started 
