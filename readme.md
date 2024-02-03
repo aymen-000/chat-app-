@@ -1,5 +1,5 @@
 # CHAT APP PROJECT USING MERN STACK
-![logo](https://github.com/aymen-000/chat-app-/blob/master/images/Capture.PNG)
+![logo](https://github.com/aymen-000/chat-app-/blob/master/images/logo.jpg)
 ## Tools Used
 In this project, we used the following tools:
 
