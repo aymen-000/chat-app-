@@ -1,5 +1,5 @@
 # CHAT APP PROJECT USING MERN STACK
-![logo](images\logo.jpg)
+![logo](.\images\logo.jpg)
 ## Tools Used
 In this project, we used the following tools:
 
